@@ -1,0 +1,3 @@
+/node_modules/
+
+# Leave /dist/ in because it's useful to see the output
