@@ -6,6 +6,12 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@types/node": "^12.7.2"
+    "@types/lodash": "^4.14.147",
+    "@types/node": "^12.7.2",
+    "lodash": "^4.17.15",
+    "subscriberservice-client-node": "^0.1.12-rc.6"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.2"
   }
 }
